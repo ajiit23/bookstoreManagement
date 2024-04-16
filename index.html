@@ -100,11 +100,30 @@
             <h3 class="login__title">Login</h3>
             
             <div class="login__group grid">
+
                <div>
-                  label
+                  <label for="login-email" class="login__label">Email</label>
+                  <input type="email" placeholder="Write your email" id="login-email" class="login__input">
                </div>
+
+               <div>
+                  <label for="login-pass" class="login__label">Password</label>
+                  <input type="password" placeholder="Enter your password" id="login-pass" class="login__input">
+               </div>
+
+            </div>
+
+            <div>
+               <span class="login__signup">
+                  You do not have an account? <a href="#" >Sign up</a>
+               </span>
+               <a href="#" class="login__forgot">
+                  You forgot your password
+               </a>
+               <a href="#" class="login__button button">Log In</a>
             </div>
          </form>
+         <i class="ri-close-line login__close" id="login-close"></i>
          
       </div>
 

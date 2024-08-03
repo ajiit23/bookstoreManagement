@@ -141,7 +141,7 @@ Company
 
 Contact
  Av. Hacienda <br>
- Lima 4321, Perú 
+ Lima 4321, Per
 
  e.book@email.com <br>
  0987-654-321

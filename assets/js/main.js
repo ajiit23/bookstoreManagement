@@ -4,6 +4,7 @@ const searchButton = document.getElementById('search-button'),
       searchContent = document.getElementById('search-content')
 
  // ================Search show=================
+
 if(searchButton){
     searchButton.addEventListener('click', () =>{
         searchContent.classList.add('show-search')

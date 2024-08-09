@@ -144,7 +144,7 @@ Contact
  Lima 4321, Per
 
  e.book@email.com <br>
- 0987-654-321
+ 0987-654-32
 
 Social
  https://www.facebook.com/
@@ -152,4 +152,4 @@ Social
  https://twitter.com/
 
 .footer__copy
-&#169; All Rights Reserved By Ajit
+&#169; All Rights Reserved By Ajit 
